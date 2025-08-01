@@ -1,0 +1,2 @@
+# sowju
+my first project
