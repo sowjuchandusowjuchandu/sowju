@@ -1,0 +1,36 @@
+.nav{
+    background-color:pink;
+    height:50px;
+    color:red;
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly;
+    list-style: none;
+}
+.body{
+   
+    display:flex;
+    align-items:center;
+    color:white;
+    flex-direction: column;
+    justify-items: center;
+    margin-top: 100px;
+    font-size: 150%;
+}
+.sowju{
+    background:url("https://cdn.mos.cms.futurecdn.net/Gw3Se82bvppoJsHc4rCVsQ.jpg") ;
+    height: 100vh;
+    width:100vw;
+    background-size:cover;
+    overflow: hidden;
+}
+#btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+
+
+   
